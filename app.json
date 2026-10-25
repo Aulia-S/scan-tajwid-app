@@ -9,10 +9,10 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.auliasabri.scantajwid"
+      "bundleIdentifier": "com.example.scantajwid"
     },
     "android": {
-      "package": "com.auliasabri.scantajwid",
+      "package": "com.example.scantajwid",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
